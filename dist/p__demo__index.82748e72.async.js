@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[5],{iYon:function(n,o,t){n.exports={title:"title___3Zbub"}},o5jj:function(n,o,t){"use strict";t.r(o);var e=t("iYon"),i=t.n(e),a=t("/MKj"),c=t("nKUr"),r=n=>Object(c["jsx"])("div",{className:i.a.Demo});function s(n){var o=n.globalTop.token;return{token:o}}var u=Object(a["c"])(s)(r);o["default"]=u}}]);
